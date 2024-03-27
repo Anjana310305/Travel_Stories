@@ -1,0 +1,39 @@
+.hbck{
+    position: relative;
+    text-align: center;
+    background-color: black;
+}
+.vbck{
+    width: 100%;
+    height: 650px;
+}
+.dom{
+    position: absolute;
+    top: 50%;
+    left:30%;
+    transform: translate(-50%,-50%);
+    background-color: azure;
+    opacity: 0.8;
+    width: 300px;
+    height: 450px;
+}
+.int{
+    position: absolute;
+    top: 50%;
+    left:70%;
+    transform: translate(-50%,-50%);
+    background-color: azure;
+    opacity: 0.8;
+    width: 300px;
+    height: 450px;
+}
+.img1{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.form{
+    position: absolute;
+    top: 32%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
